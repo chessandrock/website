@@ -1,0 +1,11 @@
+{
+    "menu": {
+        "home": "Inicio",
+        "about": "Acerca",
+        "blog": "Bitácora",
+        "contact": "Contacto"
+    },
+    "footer": {
+        "message": "Copyright © {{year}} Rodrigo Fuentealba Cartes. Todos los derechos reservados."
+    }
+}

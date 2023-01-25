@@ -1,0 +1,11 @@
+{
+    "menu": {
+        "home": "Home",
+        "about": "About Me",
+        "blog": "Blog",
+        "contact": "Contact"
+    },
+    "footer": {
+        "message": "Copyright © {{year}} Rodrigo Fuentealba Cartes. All rights reserved."
+    }
+}
