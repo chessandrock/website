@@ -7,7 +7,6 @@
     <meta name="theme-color" content="#000000" />
     <meta name="description" content="Chess & Rock" />
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
-    <link rel="manifest" href="/manifest.json" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <title>Chess &amp; Rock</title>
     @viteReactRefresh

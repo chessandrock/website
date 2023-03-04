@@ -3,9 +3,15 @@
         "home": "Inicio",
         "about": "Acerca",
         "blog": "Bitácora",
-        "contact": "Contacto"
+        "projects": "Proyectos",
+        "contact": "Contacto",
+        "language": "Idioma",
+        "language_en": "Inglés / English",
+        "language_es": "Castellano",
+        "login": "Ingreso"
     },
     "footer": {
-        "message": "Copyright © {{year}} Rodrigo Fuentealba Cartes. Todos los derechos reservados."
+        "message": "Copyright © {{year}} Rodrigo Fuentealba Cartes.",
+        "allrights": "Todos los derechos reservados."
     }
 }

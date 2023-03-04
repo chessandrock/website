@@ -3,9 +3,16 @@
         "home": "Home",
         "about": "About Me",
         "blog": "Blog",
-        "contact": "Contact"
+        "projects": "Projects",
+        "contact": "Contact",
+        "language": "Language",
+        "language_en": "English",
+        "language_es": "Spanish / Castellano",
+        "login": "Login"
+
     },
     "footer": {
-        "message": "Copyright © {{year}} Rodrigo Fuentealba Cartes. All rights reserved."
+        "message": "Copyright © {{year}} Rodrigo Fuentealba Cartes.",
+        "allrights": "All rights reserved."
     }
 }
