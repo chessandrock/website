@@ -5,6 +5,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import profile from '../../assets/profile.jpg'
 import facebook from '../../assets/icons/facebook.svg'
 import instagram from '../../assets/icons/instagram.svg'
+import twitter from '../../assets/icons/twitter.svg'
+import linkedin from '../../assets/icons/linkedin.svg'
+import github from '../../assets/icons/github.svg'
+import twitch from '../../assets/icons/twitch.svg'
+import discord from '../../assets/icons/discord.svg'
+import youtube from '../../assets/icons/youtube.svg'
 import lichess from '../../assets/icons/lichess.svg'
 
 export const Home = () => {
@@ -19,14 +25,32 @@ export const Home = () => {
                 Mi nombre es Rodrigo y soy un ser humano neurodisperso que trabaja
                 en ciencia de datos, juega ajedrez y viaja en motocicleta.
             </p>
-            <div className='flex flex-row items-center content-evenly mt-4'>
-                <a href="" target='_blank'>
+            <div className='flex flex-row  w-full items-center justify-around mt-8'>
+                <a href="" target='_blank' className='block text-center'>
                     <img src={facebook} alt="" className='w-8' />
                 </a>
-                <a href="" target='_blank'>
+                <a href="" target='_blank' className='block text-center'>
                     <img src={instagram} alt="" className='w-8' />
                 </a>
-                <a href="" target='_blank'>
+                <a href="" target='_blank' className='block text-center'>
+                    <img src={twitter} alt="" className='w-8' />
+                </a>
+                <a href="" target='_blank' className='block text-center'>
+                    <img src={linkedin} alt="" className='w-8' />
+                </a>
+                <a href="" target='_blank' className='block text-center'>
+                    <img src={github} alt="" className='w-8' />
+                </a>
+                <a href="" target='_blank' className='block text-center'>
+                    <img src={twitch} alt="" className='w-8' />
+                </a>
+                <a href="" target='_blank' className='block text-center'>
+                    <img src={discord} alt="" className='w-8' />
+                </a>
+                <a href="" target='_blank' className='block'>
+                    <img src={youtube} alt="" className='w-8' />
+                </a>
+                <a href="" target='_blank' className='block'>
                     <img src={lichess} alt="" className='w-8' />
                 </a>
             </div>
