@@ -14,13 +14,13 @@ export const Header = () => {
                 aria-label='Global'
             >
                 <div className='flex items-center justify-between'>
-                    <a
+                    <Link
                         className='flex-none text-xl font-semibold text-black'
-                        href='#'
+                        to='/'
                         aria-label='Brand'
                     >
                         Chess &amp; Rock
-                    </a>
+                    </Link>
                     <div className='sm:hidden'>
                         <button
                             type='button'
